@@ -1,0 +1,42 @@
+{
+   "home":                                                "Home",
+   "hi":                                                  "Hi",
+   "settings":                                            "Settings",
+   "back":                                                "Back",
+   "darkMode":                                            "Dark Mode",
+   "language":                                            "Language",
+   "profile":                                             "Profile",
+   "fullName":                                            "Full Name",
+   "yourIdType":                                          "Your Id Type",
+   "gender":                                              "Gender",
+   "dateOfBirth":                                         "Date of birth",
+   "personalAddress":                                     "Personal Address",
+   "city":                                                "City",
+   "region":                                              "Region",
+   "email":                                               "E-mail",
+   "clinics":                                             "Clinics",
+   "clinicName":                                          "Clinic Name",
+   "clinicAddress":                                       "Clinic Address",
+   "clinicPhone":                                         "Clinic phone",
+   "licenseImage":                                        "License image",
+   "userVideo":                                           "user video",
+   "show":                                                "show",
+   "signUp":                                              "Sign up",
+   "medicalInfo":                                         "Medical Info",
+   "describeYourConditionByVideo":                        "Describe your condition by video",
+   "describeYourConditionByVoice":                        "Describe your condition by voice",
+   "personalInfo":                                        "Personal Info",
+   "yourID":                                              "Your ID",
+   "password":                                            "password",
+   "confirmPassword":                                     "confirm password",
+   "workInfo":                                            "Work Info",
+   "mainSpeciality":                                      "Main Speciality",
+   "scientificDegrees":                                   "Scientific Degrees",
+   "add":                                                 "Add",
+   "uploadLicense":                                       "Upload License"
+
+
+
+
+
+}
